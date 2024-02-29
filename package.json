@@ -4,6 +4,7 @@
     "nodemon": "^3.1.0"
   },
   "name": "servers",
+  "type":"module",
   "version": "1.0.0",
   "description": "express",
   "main": "index.js",
